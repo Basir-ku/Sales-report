@@ -4,7 +4,7 @@ A sales report using power bi
 
 ### The dataset used in this report from a fictional company called Wide World Importers, a wholesale novelty goods importer and distributor operating from San Francisco. 
 
-### Star scheme database structure has performed to get insight of the data.
+### Star scheme database structure has used in the report to get insight of the data.
 
 ### Summary of tasks
 
