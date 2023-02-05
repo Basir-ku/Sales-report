@@ -4,9 +4,9 @@ A sales report using power bi
 
 ### The dataset used in this report from a fictional company called Wide World Importers, a wholesale novelty goods importer and distributor operating from San Francisco. 
 
-### Star scheme database structure has performed to get insights of the data.
+### Star scheme database structure has performed to get insight of the data.
 
-### summart of tasks
+### Summary of tasks
 
 1.	Get the total quantity sales report over the 2013 – 2016 year
 2.	Total profits made by company during time period and also can get the profit by individual year.
